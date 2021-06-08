@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://dougzybuydesign.github.io/csb-m60ws/static/css/main.257391f6.chunk.css",
+    "main.js": "https://dougzybuydesign.github.io/csb-m60ws/static/js/main.6143beb9.chunk.js",
+    "main.js.map": "https://dougzybuydesign.github.io/csb-m60ws/static/js/main.6143beb9.chunk.js.map",
+    "runtime-main.js": "https://dougzybuydesign.github.io/csb-m60ws/static/js/runtime-main.5689a69d.js",
+    "runtime-main.js.map": "https://dougzybuydesign.github.io/csb-m60ws/static/js/runtime-main.5689a69d.js.map",
+    "static/js/2.a8324942.chunk.js": "https://dougzybuydesign.github.io/csb-m60ws/static/js/2.a8324942.chunk.js",
+    "static/js/2.a8324942.chunk.js.map": "https://dougzybuydesign.github.io/csb-m60ws/static/js/2.a8324942.chunk.js.map",
+    "static/js/3.ee9b2bd9.chunk.js": "https://dougzybuydesign.github.io/csb-m60ws/static/js/3.ee9b2bd9.chunk.js",
+    "static/js/3.ee9b2bd9.chunk.js.map": "https://dougzybuydesign.github.io/csb-m60ws/static/js/3.ee9b2bd9.chunk.js.map",
+    "index.html": "https://dougzybuydesign.github.io/csb-m60ws/index.html",
+    "static/css/main.257391f6.chunk.css.map": "https://dougzybuydesign.github.io/csb-m60ws/static/css/main.257391f6.chunk.css.map",
+    "static/js/2.a8324942.chunk.js.LICENSE.txt": "https://dougzybuydesign.github.io/csb-m60ws/static/js/2.a8324942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5689a69d.js",
+    "static/js/2.a8324942.chunk.js",
+    "static/css/main.257391f6.chunk.css",
+    "static/js/main.6143beb9.chunk.js"
+  ]
+}
